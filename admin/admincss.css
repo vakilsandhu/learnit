@@ -1,0 +1,179 @@
+#s
+{
+height:660px;
+}
+#s label1
+{
+color:#FFFFFF;
+font-size:24px;
+}
+#s label2
+{
+font-size:24px;
+color:#0000CC;
+}
+#s .col-md-2 label
+{
+font-size:12px;
+padding-top:10px;
+margin-bottom:10px;
+color:linear-gradient(to right, rgba(255,93,177,1) 0%, rgba(239,1,124,1) 1%, rgba(239,1,124,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5db1', endColorstr='#ef017c', GradientType=1 );
+}
+#s .col-md-2
+{
+background: linear-gradient(to right, rgba(107,107,107,1) 0%, rgba(61,61,61,1) 0%, rgba(0,0,0,1) 0%, rgba(125,125,125,1) 0%, rgba(26,26,26,1) 0%, rgba(99,99,99,1) 0%, rgba(143,143,143,1) 0%, rgba(38,38,38,1) 0%, rgba(26,26,26,1) 100%);
+height:700px;
+}
+#s span
+{
+padding-right:20px;
+}
+#s .col-md-12:hover
+{
+color:#FFFFFF;
+background-color:#0033CC;
+}
+#s .col-md-10
+{
+height:700px;
+background:#e6e6e6;
+}
+#s .col-md-10 .col-md-12
+{
+height:50px;
+background:#f2f2f2;
+}
+#s .col-md-8 h4
+{
+margin-left:-210px;
+margin-top:30px;
+color:#75a3a3;
+}
+#s #s1
+{
+height:70px;
+}
+#s #s1 h
+{
+color:#3333ff;
+font-size:24px;
+margin-top:20px;
+margin-left:20px;
+float:left;
+}
+#s #s1 h1
+{
+font-size:28px;
+color:#ffffff;
+margin-left:1px;
+float:left;
+}
+#s .row label3
+{
+color:#0066ff;
+}
+#s2 .col-md-2
+{
+height:130px;
+margin:30px 30px 30px 30px;
+background:#0000ff;
+}
+#s #s3 .col-md-2
+{
+height:140px;
+margin:10px 30px 10px 30px;
+background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 80%, rgba(255,255,255,1) 100%);
+}
+#s4
+{
+height:200px;
+margin-top:20px;
+}
+#s4 img
+{
+width:90%;
+height:170px;
+padding-left:3%;
+padding-right:3%;
+}
+#ji .btn-primary
+{
+color:#000099;
+background:#f2f2f2;
+border:none;
+padding-left:5px;
+margin-top:10px;
+}
+#s2 #md1 
+{
+background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(99,188,26,1) 0%, rgba(99,188,26,1) 99%);
+}
+#s2 #md2
+{
+background: linear-gradient(to right, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 0%, rgba(117,189,209,1) 100%);
+}
+#s2 #md3
+{
+background: linear-gradient(to right, rgba(249,112,88,1) 0%, rgba(235,85,71,1) 0%, rgba(235,85,71,1) 100%);
+}
+#s2 #md4
+{
+background: linear-gradient(to right, rgba(247,242,171,1) 0%, rgba(254,210,138,1) 0%, rgba(254,210,138,1) 100%);
+}
+body
+{
+background:linear-gradient(to right, rgba(212,228,239,1) 0%, rgba(134,174,204,1) 1%, rgba(134,174,204,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4e4ef', endColorstr='#86aecc', GradientType=1 );
+}
+#md1 h2
+{
+color:#f6f6f6;
+padding-left:80px;
+font-size:34px;
+}
+#md1 p
+{
+color:#f6f6f6;
+padding-left:85px;
+font-size:12px;
+}
+
+#md2 h2
+{
+color:#f6f6f6;
+padding-left:80px;
+font-size:34px;
+}
+#md2 p
+{
+color:#f6f6f6;
+padding-left:95px;
+font-size:12px;
+}
+
+#md3 h2
+{
+color:#f6f6f6;
+padding-left:80px;
+font-size:34px;
+}
+#md3 p
+{
+color:#f6f6f6;
+padding-left:90px;
+font-size:12px;
+}
+
+#md4 h2
+{
+color:#f6f6f6;
+padding-left:80px;
+font-size:34px;
+}
+#md4 p
+{
+color:#f6f6f6;
+padding-left:80px;
+font-size:12px;
+}
